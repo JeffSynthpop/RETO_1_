@@ -1,2 +1,2 @@
 # RETO_1
- Videojuego The PAth of the fruit collector
+ Videojuego The Path of the fruit collector
